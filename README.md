@@ -1,7 +1,6 @@
 # ⚡Reflexologia ⚡
 
-> This app web let you a basic tasks manager ... Allows CRUD with database.
-> Not using MVC model
+> Pagina web estatica
 
 ## 🔭skils:
 
