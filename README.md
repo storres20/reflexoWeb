@@ -1,6 +1,8 @@
 # ⚡Reflexologia ⚡
 
-> Pagina web estatica
+> Pagina web estatica basado en una plantilla HTML de <a href="https://htmlcodex.com/" target="_blank">HTML Codex</a>
+
+> El favicon se obtuvo de Freepik de <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>
 
 ## 🔭skils:
 
